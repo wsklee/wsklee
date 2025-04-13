@@ -18,6 +18,7 @@
 ### Libraries and Frameworks
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" />

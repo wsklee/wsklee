@@ -1,8 +1,11 @@
-# Hi there 👋
+Hi I’m Wonseok, a software developer in Singapore with a hands-on approach to building and learning.
 
-## 🛠 Tech Stack
+My most recent projects/contributions include 
 
-### Languages
+- [**7NT**](https://github.com/wsklee/7NT), a browser-based 4-player Singaporean Bridge card game built with [**Tanstack Start**](https://tanstack.com/start/latest) and Spec-Driven Development
+- OSS Contribution to [**AWS AppMod Catalog Blueprints**](https://github.com/cdklabs/cdk-appmod-catalog-blueprints), where I contributed [**Codex**](https://openai.com/codex/) integrations to the repo for agentic coding.
+
+Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
@@ -15,7 +18,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white" alt="Bash" />
 </p>
 
-### Libraries and Frameworks
+Libraries and Frameworks
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -28,7 +31,7 @@
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white" alt="JUnit" />
 </p>
 
-### Developer Tools
+Developer Tools
 <p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker" />

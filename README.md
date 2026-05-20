@@ -3,7 +3,9 @@ Hi I’m Wonseok, a software developer in Singapore with a hands-on approach to 
 My most recent projects/contributions include 
 
 - [**7NT**](https://github.com/wsklee/7NT), a browser-based 4-player Singaporean Bridge card game built with [**Tanstack Start**](https://tanstack.com/start/latest) and Spec-Driven Development
-- OSS Contribution to [**AWS AppMod Catalog Blueprints**](https://github.com/cdklabs/cdk-appmod-catalog-blueprints), where I contributed [**Codex**](https://openai.com/codex/) integrations to the repo for agentic coding.
+- OSS Contribution to [**AWS AppMod Catalog Blueprints**](https://github.com/cdklabs/cdk-appmod-catalog-blueprints), where I contributed a local-first developer sandbox for agentic workflows, and Codex integration
+- Won Champion at a Roblox game making hackathon [Link](https://www.linkedin.com/posts/wonseoklee7_ntu-garena-robloxdev-ugcPost-7444312283180105729-buqK)
+- Did research on physical-grounded 3D asset generation [Link](https://dr.ntu.edu.sg/entities/publication/dd4ccd45-616b-432f-aba1-2c9aaaac4020)
 
 Languages
 <p>
